@@ -4,7 +4,6 @@ A simple, styled website about Data Analysis and Artificial Intelligence / Machi
 
 ## 🌐 Live Site
 
-> **Add your GitHub Pages URL here after Step 6:**
 > `https://Harish-4007.github.io/task`
 
 ---
