@@ -4,7 +4,7 @@ A simple, styled website about Data Analysis and Artificial Intelligence / Machi
 
 ## 🌐 Live Site
 
-> `https://Harish-4007.github.io/task`
+> **[https://Harish-4007.github.io/task`](https://Harish-4007.github.io/task)**
 
 ---
 
