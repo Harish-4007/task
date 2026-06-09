@@ -5,7 +5,7 @@ A simple, styled website about Data Analysis and Artificial Intelligence / Machi
 ## 🌐 Live Site
 
 > **Add your GitHub Pages URL here after Step 6:**
-> `https://YOUR_USERNAME.github.io/ai-ml-website`
+> `https://Harish-4007.github.io/task`
 
 ---
 
@@ -20,7 +20,7 @@ A simple, styled website about Data Analysis and Artificial Intelligence / Machi
 ## 📁 Folder Structure
 
 ```
-ai-ml-website/
+TASK/
 ├── index.html
 ├── style.css
 ├── README.md
@@ -44,4 +44,5 @@ ai-ml-website/
 
 ## ✍️ Author
 
-**Your Name** — [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+**HARISH** — [github.com/Harish-4007](https://github.com/Harish-4007)
+-Email: hkharish040506@gmail.com
